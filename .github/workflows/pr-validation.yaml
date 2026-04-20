@@ -21,4 +21,4 @@ jobs:
           git status
       - name: Test the application
         run: |
-          sleep 300
+          sleep 15
